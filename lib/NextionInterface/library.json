@@ -1,0 +1,25 @@
+{
+    "name": "NextionInterface",
+    "version": "1.0.0",
+    "description": "A library that communicates with Nextion HMI. Organize components relative to their pages in Nextion HMI. Allows you to enable address mode and CRC.",
+    "keywords": "nextion,crc16,modbus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shah253kt/NextionInterface"
+    },
+    "authors": [
+        {
+            "name": "Ahmad Shahril",
+            "url": "https://github.com/shah253kt",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/shah253kt/NextionInterface",
+    "frameworks": "*",
+    "platforms": "*",
+    "headers": ["NextionInterface.h"],
+    "dependencies":
+    {
+    }
+}

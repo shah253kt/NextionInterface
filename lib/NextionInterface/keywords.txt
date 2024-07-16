@@ -1,0 +1,6 @@
+# Datatypes (KEYWORD1)
+NextionInterface    KEYWORD1
+
+# Functions (KEYWORD2)
+
+# Constants (LITERAL1)
